@@ -91,6 +91,8 @@ All tables are protected with Row Level Security policies to ensure data privacy
 ---
 
 ## Author
-**Het Patel**  
-*First-Year Computer Science Major*  
+**Het Patel** | **GrowFrame**
+*First-Year Computer Science Major*
 Passionate about building tools that make life easier through code.
+
+GrowFrame is my personal organization for coding projects focused on growth and innovation.

@@ -86,6 +86,12 @@ function App() {
           <div ref={aboutRef}>
             <About />
           </div>
+          <footer className="bg-[#0f0f14] border-t border-gray-800 py-8 mt-16">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+              <p className="text-gray-400">Built by <span className="text-white font-semibold">Het Patel</span></p>
+              <p className="text-sm text-gray-500 mt-1">Part of <span className="text-teal-400 font-semibold">GrowFrame</span> - Creating tools for growth and innovation</p>
+            </div>
+          </footer>
         </>
       ) : (
         user && <Profile user={user} onCreateEventClick={() => setIsCreateEventModalOpen(true)} />
