@@ -89,5 +89,6 @@ All tables are protected with Row Level Security policies to ensure data privacy
 ---
 
 ## Author
-
-Your Name
+**Het Patel**  
+*First-Year Computer Science Major*  
+Passionate about building tools that make life easier through code.
