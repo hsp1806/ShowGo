@@ -2,7 +2,7 @@
 
 A modern event discovery and management platform built with React, TypeScript, and Supabase. ShowGo connects event organizers with attendees, making it easy to create, discover, and join local events.
 
-**[Live Demo](your-app-url-here)**
+**[Live Demo](https://showgopro.netlify.app/)**
 
 ---
 
